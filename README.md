@@ -25,6 +25,8 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
   Utilized essential SQL functions to derive insightful results from diverse pet-related datasets.  
   [Project Link](https://shorturl.at/pLQ67)
 
+- More Projects in my Repos
+
 ## Work Experience
 - **Ecommerce Success Pakistan**  | **Brand Relations Manager**
   Established and cultivated business relationships, negotiated successful partnerships, and conducted in-depth product analysis for the Amazon marketplace.
@@ -32,10 +34,8 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
 ## Education
 - Bachelor’s in Computer Science, Iqra University
   2023 - Present
-
-## Extra-Curricular Activities
-- Contributed to capturing insightful moments through photography and videography during the AI Panel Discussion event organized by Atomcamp in collaboration with NUST, Karachi.
-- Attended a week-long Student Volunteer Program at SIUT, expanding knowledge and cultivating a deeper sense of empathy.
+- Data Science & AI Bootcamp, Atomcamp
+  2023 - Present
 
 Feel free to check out my [GitHub profile](https://github.com/HussainM899) and explore my repositories for more exciting projects and content. Let's connect and collaborate!
 
