@@ -31,7 +31,7 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
 
 ## Education
 - Bachelor’s in Computer Science, Iqra University
-- 2023 - Present
+  2023 - Present
 
 ## Extra-Curricular Activities
 - Contributed to capturing insightful moments through photography and videography during the AI Panel Discussion event organized by Atomcamp in collaboration with NUST, Karachi.
