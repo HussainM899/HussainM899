@@ -3,9 +3,10 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
 
 ## Skills
 - Data Analysis using Excel and Python
-- Data Visualization using Power Bi, Excel, Python Libraries
+- Data Visualization using Power Bi, Excel, and Python Libraries
 - Data Cleaning and Pre-Processing
-- Machine Learning / EDA Analysis
+- Machine Learning / EDA Analysis using Python Libraries (SKLearn, Pandas, Numpy)
+- Deep Learning using Python libraries (Keras, Tensorflow, PyTorch)
 - SQL
 - Statistical Analysis
 - Artificial Intelligence
@@ -37,7 +38,7 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
 - Data Science & AI Bootcamp, Atomcamp
   2023 - Present
 
-Feel free to check out my [GitHub profile](https://github.com/HussainM899) and explore my repositories for more exciting projects and content. Let's connect and collaborate!
+Check out my [GitHub profile](https://github.com/HussainM899) and explore my repositories for more exciting projects and content. Let's connect and collaborate!
 
 Here are my contacts: 
 - **Linkedin:** [Hussain Murtaza Ali](https://www.linkedin.com/in/hussain-murtaza-ali)
