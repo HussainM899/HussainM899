@@ -33,9 +33,12 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young **Data Scientist** based 
   Established and cultivated business relationships, negotiated successful partnerships, and conducted in-depth product analysis for the Amazon marketplace.
 
 ## Education
-- Bachelor’s in Computer Science, Iqra University
+- Bachelor’s in Computer Science | Iqra University
+
   2023 - Present
-- Data Science & AI Bootcamp, Atomcamp
+
+- Data Science & AI Bootcamp | Atomcamp
+
   2023 - Present
 
 Check out my [GitHub profile](https://github.com/HussainM899) and explore my repositories for more exciting projects and content. Let's connect and collaborate!
