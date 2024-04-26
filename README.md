@@ -49,7 +49,7 @@ Conducted a comprehensive analysis of customer behavior and loyalty program perf
 ---
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [Hussain Murtaza Ali](https://www.linkedin.com/in/hussainmurtazaali)
+- **LinkedIn:** [Hussain Murtaza Ali](https://www.linkedin.com/in/hussain-murtaza-ali)
 - **Email:** [hussainmurtaza899@gmail.com](mailto:hussainmurtaza899@gmail.com)
 
 Feel free to connect with me for collaborations, or project discussions, or if you just want to chat about the latest in data science and AI!
