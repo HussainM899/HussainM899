@@ -22,23 +22,23 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young Data Scientist based in K
 
 ### Text Classification API with FastAPI, Docker, and Hugging Face Transformers
 Developed a RESTful API using **FastAPI** to perform text classification tasks like sentiment analysis and emotion classification. The API uses a pre-trained **Hugging Face Transformer model**, specifically the distilbert-base-multilingual-cased-sentiments-student model, which is containerized using **Docker** for easy deployment and scalability.
-- [Hugging Face Space Link](#https://github.com/HussainM899/text-classification-FastAPI-Docker-HF)
+- [Hugging Face Space Link](https://github.com/HussainM899/text-classification-FastAPI-Docker-HF)
 
 ### COVID-19 Twitter Sentiment and Topic Analysis
 Analyzed public sentiment and topics concerning COVID-19 on Twitter to understand public reactions during the pandemic. Used **Python** with libraries like **pandas**, **numpy**, **nltk**, and **gensim** for data manipulation and NLP tasks. Sentiment analysis was performed using **TextBlob**, and topic modeling was conducted using **Latent Dirichlet Allocation (LDA)** with gensim.
-- [Project Link](#https://github.com/HussainM899/Covid-Sentiment-Analysis-NLP)
+- [Project Link](https://github.com/HussainM899/Covid-Sentiment-Analysis-NLP)
 
 ### YOLOv8 Object Detection
 Demonstrated object detection on images and videos using **YOLOv8** with the Ultralytics implementation, detecting objects such as cars, trucks, and traffic lights. Utilized **PyTorch** and **OpenCV** for video processing and **Matplotlib** for visualization of detection results.
-- [Project Link](#https://github.com/HussainM899/Object-Detection-using-YOLOV8)
+- [Project Link](https://github.com/HussainM899/Object-Detection-using-YOLOV8)
 
 ### Pothole Detection Using YOLOv8
 Developed a deep learning model to detect potholes in urban road images using **YOLOv8** architecture. This real-time detection system was trained on a custom dataset, leveraging **PyTorch** and **OpenCV** for image processing and achieving high accuracy and inference speed suitable for real-time applications.
-- [Project Link](#https://github.com/HussainM899/Pothole-Detection-using-YOLOV8)
+- [Project Link](https://github.com/HussainM899/Pothole-Detection-using-YOLOV8)
 
 ### FlyingWhale Airline Customer & Loyalty Program Analysis
 Conducted a comprehensive analysis of customer behavior and loyalty program performance for FlyingWhale Airline. Utilized **Power BI**, **Power Query**, and **DAX** for data analysis and visualization, focusing on segmentation analysis, trend analysis, and descriptive statistics to derive actionable insights.
-- [Project Link](#https://github.com/HussainM899/FlyingWhale-Airline-Analysis)
+- [Project Link](https://github.com/HussainM899/FlyingWhale-Airline-Analysis)
 
 ## 👔 Work Experience
 **Ecommerce Success Pakistan | Brand Relations Manager**
