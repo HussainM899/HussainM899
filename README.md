@@ -22,7 +22,7 @@ Hey there! I'm Hussain Murtaza Ali, a passionate young Data Scientist based in K
 
 ### Text Classification API with FastAPI, Docker, and Hugging Face Transformers
 Developed a RESTful API using **FastAPI** to perform text classification tasks like sentiment analysis and emotion classification. The API uses a pre-trained **Hugging Face Transformer model**, specifically the distilbert-base-multilingual-cased-sentiments-student model, which is containerized using **Docker** for easy deployment and scalability.
-- [Hugging Face Space Link](https://github.com/HussainM899/text-classification-FastAPI-Docker-HF)
+- [Project Linkk](https://github.com/HussainM899/text-classification-FastAPI-Docker-HF)
 
 ### COVID-19 Twitter Sentiment and Topic Analysis
 Analyzed public sentiment and topics concerning COVID-19 on Twitter to understand public reactions during the pandemic. Used **Python** with libraries like **pandas**, **numpy**, **nltk**, and **gensim** for data manipulation and NLP tasks. Sentiment analysis was performed using **TextBlob**, and topic modeling was conducted using **Latent Dirichlet Allocation (LDA)** with gensim.
