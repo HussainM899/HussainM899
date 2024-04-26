@@ -40,10 +40,6 @@ Developed a deep learning model to detect potholes in urban road images using **
 Conducted a comprehensive analysis of customer behavior and loyalty program performance for FlyingWhale Airline. Utilized **Power BI**, **Power Query**, and **DAX** for data analysis and visualization, focusing on segmentation analysis, trend analysis, and descriptive statistics to derive actionable insights.
 - [Project Link](https://github.com/HussainM899/FlyingWhale-Airline-Analysis)
 
-## 👔 Work Experience
-**Ecommerce Success Pakistan | Brand Relations Manager**
-- Established and cultivated business relationships, negotiated successful partnerships, and conducted in-depth product analysis for the Amazon marketplace.
-
 ## 🎓 Education
 - **Bachelor’s in Computer Science | Iqra University**
   2023 - Present
