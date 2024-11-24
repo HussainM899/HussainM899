@@ -44,7 +44,7 @@ Conducted a comprehensive analysis of customer behavior and loyalty program perf
 - **Bachelor’s in Computer Science | Iqra University**
   2023 - Present
 - **Data Science & AI Bootcamp | Atomcamp**
-  2023 - Present
+  2023 - 2024
 
 ---
 
