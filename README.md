@@ -105,19 +105,6 @@ Employee handbook bot deployed in a secure self-hosted data center with MS Teams
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussainM899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainM899&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HussainM899&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
   <i>Open to collaborations, consulting, and conversations about production AI.</i><br/><br/>
   <b>hussain@nubissystems.com</b>
