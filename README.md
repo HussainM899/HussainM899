@@ -22,34 +22,25 @@ I engineer AI systems that ship to production — voice agents, multi-agent auto
 
 ## Tech Stack
 
-**AI & Automation**
+### AI Agents & LLM Platforms
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Google ADK](https://img.shields.io/badge/Google_ADK-34A853?style=flat-square&logo=google&logoColor=white)
+<p> <a href="https://claude.com/claude-code" target="_blank"><img src="assets/logos/claude-code.png" alt="Claude Code" height="40" /></a>&nbsp;&nbsp; <a href="https://www.anthropic.com" target="_blank"><img src="assets/logos/anthropic.png" alt="Anthropic" height="40" /></a>&nbsp;&nbsp; <a href="https://www.anthropic.com/claude" target="_blank"><img src="assets/logos/claude-anthropic.png" alt="Claude" height="40" /></a>&nbsp;&nbsp; <a href="https://openai.com" target="_blank"><img src="assets/logos/openai.png" alt="OpenAI" height="40" /></a>&nbsp;&nbsp; <a href="https://ai.google.dev" target="_blank"><img src="assets/logos/google-gemini.png" alt="Google Gemini" height="40" /></a>&nbsp;&nbsp; <a href="https://openrouter.ai" target="_blank"><img src="assets/logos/openrouter.png" alt="OpenRouter" height="40" /></a>&nbsp;&nbsp; <a href="https://www.langchain.com" target="_blank"><img src="assets/logos/langchain.png" alt="LangChain" height="40" /></a>&nbsp;&nbsp; <a href="https://github.com/features/copilot" target="_blank"><img src="assets/logos/github-copilot.png" alt="GitHub Copilot" height="40" /></a> </p>
 
-**ML / Deep Learning**
+### Voice AI & Automation
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<p> <a href="https://www.retellai.com" target="_blank"><img src="assets/logos/retell-ai.png" alt="Retell AI" height="40" /></a>&nbsp;&nbsp; <a href="https://www.beyondpresence.ai" target="_blank"><img src="assets/logos/beyond-presence.svg" alt="Beyond Presence" height="40" /></a>&nbsp;&nbsp; <a href="https://n8n.io" target="_blank"><img src="assets/logos/n8n.png" alt="n8n" height="40" /></a>&nbsp;&nbsp; <a href="https://zapier.com" target="_blank"><img src="assets/logos/zapier.png" alt="Zapier" height="40" /></a>&nbsp;&nbsp; <a href="https://www.twilio.com" target="_blank"><img src="assets/logos/twilio.png" alt="Twilio" height="40" /></a>&nbsp;&nbsp; <a href="https://squareup.com" target="_blank"><img src="assets/logos/square-pos.png" alt="Square POS" height="40" /></a> </p>
 
-**Backend & Infrastructure**
+### Backend & Infrastructure
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+<p> <a href="https://www.python.org" target="_blank"><img src="assets/logos/python.png" alt="Python" height="40" /></a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/logos/javascript.png" alt="JavaScript" height="40" /></a>&nbsp;&nbsp; <a href="https://fastapi.tiangolo.com" target="_blank"><img src="assets/logos/fastapi.png" alt="FastAPI" height="40" /></a>&nbsp;&nbsp; <a href="https://www.docker.com" target="_blank"><img src="assets/logos/docker.png" alt="Docker" height="40" /></a>&nbsp;&nbsp; <a href="https://www.postgresql.org" target="_blank"><img src="assets/logos/postgresql.png" alt="PostgreSQL" height="40" /></a>&nbsp;&nbsp; <a href="https://cloud.google.com" target="_blank"><img src="assets/logos/google-cloud.png" alt="Google Cloud" height="40" /></a> </p>
 
-**Data & Analytics**
+### Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<p> <a href="https://pandas.pydata.org" target="_blank"><img src="assets/logos/pandas.png" alt="Pandas" height="40" /></a>&nbsp;&nbsp; <a href="https://numpy.org" target="_blank"><img src="assets/logos/numpy.png" alt="NumPy" height="40" /></a>&nbsp;&nbsp; <a href="https://powerbi.microsoft.com" target="_blank"><img src="assets/logos/power-bi.png" alt="Power BI" height="40" /></a>&nbsp;&nbsp; <a href="https://developers.google.com/sheets/api" target="_blank"><img src="assets/logos/google-sheets-api.png" alt="Google Sheets API" height="40" /></a>&nbsp;&nbsp; <a href="https://streamlit.io" target="_blank"><img src="assets/logos/streamlit.png" alt="Streamlit" height="40" /></a> </p>
+
+### Ops & CRM Tooling
+
+<p> <a href="https://www.notion.so" target="_blank"><img src="assets/logos/notion.png" alt="Notion" height="40" /></a>&nbsp;&nbsp; <a href="https://www.hubspot.com" target="_blank"><img src="assets/logos/hubspot.png" alt="HubSpot" height="40" /></a> </p>
 
 ---
 
@@ -59,7 +50,7 @@ I engineer AI systems that ship to production — voice agents, multi-agent auto
 
 **Clovey — Restaurant Voice AI**
 Real-time voice receptionist handling inbound calls, menu queries, POS orders, and reservations. Live in New York.
-`Twilio` · `Clover POS API` · `n8n` · `LLM Orchestration`
+`Twilio` · `Square POS API` · `n8n` · `LLM Orchestration`
 
 ---
 
